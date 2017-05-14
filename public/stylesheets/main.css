@@ -1,0 +1,59 @@
+#homeHeader
+{
+  text-align: center;
+}
+
+#loginForm
+{
+  width: 30%;
+  margin: 0px auto;
+}
+
+#createBlogForm
+{
+  width: 30%;
+  margin: 0px auto;
+}
+
+#formHeader
+{
+  text-align: center;
+}
+
+.modal-body #adContent
+{
+  word-wrap: break-word;
+}
+
+.card-text
+{
+  word-wrap: break-word;
+}
+
+.advertHeader
+{
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: -10px;
+}
+
+.thumbnail > img
+{
+  width: 70%;
+}
+
+#card-delete-button > button
+{
+  padding: 0px 7px;
+}
+
+#live-title
+{
+  margin-top: -25px;
+  margin-bottom: 0px;
+}
+
+.card-text
+{
+  margin: 30px 0px 0px 0px;
+}
